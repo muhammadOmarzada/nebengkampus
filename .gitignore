@@ -1,0 +1,24 @@
+# Binaries hasil kompilasi Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# File konfigurasi rahasia / environment lokal
+.env
+*.env.local
+
+# IDE dan Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Log dan file temporary
+*.log
